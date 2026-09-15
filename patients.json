@@ -1,0 +1,47 @@
+{
+  "P001": {
+    "name": "Aarav Sharma",
+    "city": "Mumbai",
+    "age": 28,
+    "height": "175 cm",
+    "weight": "70 kg",
+    "bmi": 22.9,
+    "verdict": "Normal"
+  },
+  "P002": {
+    "name": "Priya Patel",
+    "city": "Ahmedabad",
+    "age": 42,
+    "height": "160 cm",
+    "weight": "78 kg",
+    "bmi": 30.5,
+    "verdict": "Obese"
+  },
+  "P003": {
+    "name": "Rohan Iyer",
+    "city": "Bengaluru",
+    "age": 35,
+    "height": "180 cm",
+    "weight": "88 kg",
+    "bmi": 27.2,
+    "verdict": "Overweight"
+  },
+  "P004": {
+    "name": "Sneha Sen",
+    "city": "Kolkata",
+    "age": 24,
+    "height": "165 cm",
+    "weight": "48 kg",
+    "bmi": 17.6,
+    "verdict": "Underweight"
+  },
+  "P005": {
+    "name": "Vikram Singh",
+    "city": "Delhi",
+    "age": 50,
+    "height": "172 cm",
+    "weight": "73 kg",
+    "bmi": 24.7,
+    "verdict": "Normal"
+  }
+}
